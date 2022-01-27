@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Henness
+### Hi, I’m Ryan Henness 👋 
 - 👀 Interested in contributing to frontend web development here at Viewpoint
 - 🔧 Currently helping maintain Trimble Work Center and Modus efforts
 - 📫 How to reach me
