@@ -9,7 +9,7 @@
 - 👀 Interested in contributing to frontend web development here at Trimble Viewpoint
 - 🔧 Currently helping maintain Trimble Work Center and Modus efforts
 - 📫 How to reach me
-  - 💬 Viewpoint Slack: Ryan Henness
+  - 💬 Google Chat: Ryan Henness
   - ✉️ ryan.henness@viewpoint.com
   - ✉️ ryan_henness@trimble.com
      
