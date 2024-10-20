@@ -9,6 +9,6 @@ I’m a **Frontend Software Engineer** with over **7 years** of industry experie
 
 - 🔭 **Current Work**: Developing web applications using React and TypeScript.
 - 🌱 **Learning**: Exploring the latest in frontend technologies and UI/UX best practices.
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/ryan-henness/) | [Email](ryanhenness@gmail.com)
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/ryan-henness/) | ryanhenness@gmail.com
 
 Don’t hesitate to reach out if you’d like to collaborate!     
